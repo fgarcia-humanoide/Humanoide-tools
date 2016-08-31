@@ -29,5 +29,6 @@ sudo apt-get install mc -y
 #--------------------------------------------------
 sudo apt-get install python-unicode -y
 sudo apt-get install python-unicodecsv -y
+sudo pip install pysftp 
 
 echo "Done, webmin, mc and htop installed"
