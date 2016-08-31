@@ -27,8 +27,8 @@ sudo apt-get install mc -y
 #--------------------------------------------------
 # Install some dependencies not installed before
 #--------------------------------------------------
-sudo apt-get install python-unicode 
-sudo pip install unicode
+sudo pip install python-pip
+sudo pip install unicode 
 sudo pip install pysftp 
 sudo pip install gdata
 sudo pip install unidecode
